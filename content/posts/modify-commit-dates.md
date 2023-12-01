@@ -40,8 +40,8 @@ Now, use the following commands to modify the commit date:
 
 ```bash
 GIT_COMMITTER_DATE="YYYY-MM-DD HH:MM:SS" git commit --amend --date="YYYY-MM-DD HH:MM:SS"
-Replace YYYY-MM-DD HH:MM:SS with the desired date and time.
 ```
+Replace YYYY-MM-DD HH:MM:SS with the desired date and time.
 
 #### Step 5. Complete the Rebase
 Finish the rebase with the following command:
