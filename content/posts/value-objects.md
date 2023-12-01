@@ -105,4 +105,6 @@ Introducing value objects might initially increase the learning curve for develo
 ## Conclusion
 In conclusion, value objects in C# offer a powerful way to enhance code clarity, enforce business rules, and promote immutability. By encapsulating attributes within small, immutable objects, we can build more maintainable and robust software. While there are trade-offs and potential pitfalls, the benefits of using value objects often outweigh the challenges, especially in complex domain models.
 
-In your journey to building better C# applications, consider the power of value objects, and embrace them where they make sense in your domain. Happy coding! 🐼✨
+In your journey to building better C# applications, consider the power of value objects, and embrace them where they make sense in your domain. 
+
+Happy coding! 🐼✨
